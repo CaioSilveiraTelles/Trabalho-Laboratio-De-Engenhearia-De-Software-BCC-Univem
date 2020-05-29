@@ -30,4 +30,4 @@ que contenha o nome, idade, pai e mãe, sendo esses dois últimos atributos tamb
 também deverá possuir um método para mostrar os dados das suas ligações.
 Crie um programa principal que permita a criação desses objetos e faça também uma funcionalidade para mostrar os
 dados dessa árvore.
-Dica: Utilizar um método recursivo.
+Dica: Utilizar um método recursivo
